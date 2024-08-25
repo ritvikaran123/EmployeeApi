@@ -1,0 +1,5 @@
+http://localhost:5107/api/Employees
+
+sandeep29.database.windows.net
+
+Server=tcp:sandeep29.database.windows.net,1433;Initial Catalog=empdb;Persist Security Info=False;User ID=sandeepserver;Password=godblessme@29;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;
